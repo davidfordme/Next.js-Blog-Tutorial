@@ -14,6 +14,7 @@ export default function FirstPost() {
             <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         </Head>
         <h1>{ pageTitle }</h1>
+        <p>This is a test post</p>
         <h2>
             <Link href="/">
                 <a>Back to home</a>
